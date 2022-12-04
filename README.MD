@@ -4,3 +4,5 @@ File types of: Assembly Z80 MSX, MSX Basic, MSX Moonblaster music files, etc<br>
 Z80 MSX2 Computer & MSX Music / MSX Audio<br>
 <br>
 Complete Disk is Uploaded... No knowledge of complete contents <br>
+<br>
+Not responsible for any harm whatsoever! <br>
