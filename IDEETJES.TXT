@@ -1,0 +1,40 @@
+# update 8 Maart 1995 #
+
+
+                        **********************
+                        ***                ***
+                        *** WAT IDEETJES.. ***
+                        ***                ***
+                        **********************
+
+* Tijdens de demo comtroleren of de printer aanstaat.
+
+  - Ja  -> dump onzin tekst erheen (recept ofzo)
+  - Nee -> doorgaan met demo
+
+* Draaiend COCA-COLA blikje (screen 7, ben ik al mee bezig)
+  Moet alleen nog de routine hebben.....(NOP)
+
+* verborgen sex-animatie (eeeh beetje moeilijk denk ik...)
+
+* einddemo: - meer kleuren in het font
+            - roterende sterren
+            - tekst centreren
+
+* Demo draaibaar maken op HD.
+  Dus moonblaster replayer voor onder DOS 2.xx !!!!!
+
+* ergens in de demo....
+   Leeftijd opvragen ---> leeftijd : >10 ---> verder
+                                   : <10 ---> kleurboek
+
+kleurboek:alleen zwarte contourlijnen, als deze aangeklikt worden gebeurd er
+          niks (pixelscan?), anders wordt het vlak ingekleurd.....
+
+
+VERDER NOG NODIG:
+-----------------
+
+* SCREEN12 DE/CRUNCHER (IVM SCREEN12 INTERLACE-DEMO)
+
+
